@@ -38,8 +38,7 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Malvino-creator
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Malvino-creator & theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Malvino-creator&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
 
 
 
